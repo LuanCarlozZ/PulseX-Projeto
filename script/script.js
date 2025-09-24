@@ -7,7 +7,7 @@ document.addEventListener("DOMContentLoaded", ()=>{
     // Criação do menu mobile
 
     const mobileMenu = document.createElement("div")
-    mobileMenu = className = "mobile-menu"
+    mobileMenu.className = "mobile-menu"
     mobileMenu.innerHTML `
     <div class="mobile-menu-content">
       <a href="#features" class="mobile-menu-link">Recursos</a>
@@ -301,5 +301,6 @@ document.addEventListener("DOMContentLoaded", () => {
   addParallaxEffect()
   addWatchInteraction()
   addLoadingAnimation()
+
 
 })
