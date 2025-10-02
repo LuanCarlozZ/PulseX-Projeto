@@ -20,4 +20,6 @@ O foco está em **design responsivo**, **animações suaves** e **interatividade
 
 - **HTML5**  
 - **CSS3 (Flexbox, Grid, Animações)**  
-- **JavaScript (DOM, eventos, lógica de simulação)**  
+- **JavaScript (DOM, eventos, lógica de simulação)**
+    
+Acesse o site: https://luancarlozz.github.io/PulseX-Projeto/
